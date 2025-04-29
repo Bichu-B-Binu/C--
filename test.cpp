@@ -1,12 +1,13 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
-  int arr[5] = {5, 10, 15, 20, 25};
+// int main() {
+//   int arr[5] = {5, 10, 15, 20, 25};
 
-  for (int i = 0; i < 5; i++) {
-    cout << arr[i] <<endl;
-  }
+//   for (int i = 0; i < 5; i++) {
+//     cout << arr[i] <<endl;
+//   }
 
-  return 0;
-}
+//   return 0;
+// }
+
